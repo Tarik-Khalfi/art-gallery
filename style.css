@@ -83,6 +83,8 @@ h3 {
 
 .box-2 {
     background-image: url('/images/header-img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 80vh;
 }
 
@@ -128,7 +130,7 @@ h3 {
 }
 
 .item2 {
-    width: 536px;
+    width: 610px;
 }
 
 .sect-3 {
@@ -142,7 +144,7 @@ h3 {
     background-color: black;
     color: white;
     padding: 50px;
-    width: 535px;
+    width: 610px;
 }
 
 .sect-4>p {
